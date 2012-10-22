@@ -1,4 +1,4 @@
-smartfile-client-php
-====================
+This project has moved.
+=======================
 
-Redirect to new location
+https://github.com/smartfile/client-php
